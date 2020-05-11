@@ -10,3 +10,5 @@ Run testing.ipynb and you will be able to predict the ploarity of tweets
 
 # Accuracy
 80% Accuracy was achieved which can be further improved by tuning the hyper-parameters
+
+![Screenshot 2020-05-11 at 12 27 11 PM](https://user-images.githubusercontent.com/40122399/81532867-c77b4e80-9382-11ea-892b-a614e32700e8.png)
